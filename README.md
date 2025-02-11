@@ -16,34 +16,7 @@ This project fetches live cryptocurrency data (Top 50) from an API, performs key
   - Average price of the top 50 cryptos.  
   - Highest and lowest **24-hour price change**.  
 
----
 
-## 📦 Installation  
-
-### 1️⃣ Clone the Repository  
-```bash  
-git clone https://github.com/your-username/crypto-live-analysis.git  
-cd crypto-live-analysis  
-```  
-
-### 2️⃣ Install Dependencies  
-```bash  
-pip install -r requirements.txt  
-```  
-
----
-
-## 🔧 Usage  
-
-### Fetch & Analyze Live Crypto Data  
-```bash  
-python scripts/fetch_data.py  
-```  
-
-### Update Excel File in Real Time  
-```bash  
-python scripts/update_excel.py  
-```  
 
 ---
 
@@ -69,5 +42,5 @@ This project is licensed under the MIT License.
 ---
 
 ## 📧 Contact  
-For any queries, contact me at [your-email@example.com](mailto:your-email@example.com).  
+For any queries, contact me at [aghasyedi@gmail.com](mailto:aghasyedi@gmail.com).  
 ```
