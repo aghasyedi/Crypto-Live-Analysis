@@ -27,8 +27,9 @@ This project fetches live cryptocurrency data (Top 50) from an API, performs key
 
 ---
 
-## 📜 License  
-This project is licensed under the MIT License.  
+## 📜 Screen Shot  
+![ss](https://github.com/user-attachments/assets/ad0d21eb-f102-404a-8357-2df5e61668dd)
+
 
 ---
 
